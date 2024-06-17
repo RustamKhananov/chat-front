@@ -1,0 +1,34 @@
+.messageCard_my {
+  padding: 8px;
+  width: 300px;
+  background-color: antiquewhite;
+  border-radius: 8px;
+  margin-left: calc(100vw - 340px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 8px;
+}
+.messageCard_other {
+  width: 300px;
+  background-color: aliceblue;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 8px;
+}
+
+.messageCard__author {
+  font-size: 15px;
+  font-style: 'bold';
+  padding: 0;
+  margin: 0 0 8px 0;
+}
+.messageCard__date {
+  font-size: 10px;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+}

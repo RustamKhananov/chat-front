@@ -1,0 +1,6 @@
+.messagesList {
+  height: calc(100vh - 100px);
+  width: 100%;
+  overflow: scroll;
+  padding: 16px;
+}
