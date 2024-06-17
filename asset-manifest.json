@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9019137a.css",
-    "main.js": "/static/js/main.ef7f6adb.js",
-    "index.html": "/index.html",
-    "main.9019137a.css.map": "/static/css/main.9019137a.css.map",
-    "main.ef7f6adb.js.map": "/static/js/main.ef7f6adb.js.map"
+    "main.css": "/chat-front/static/css/main.9019137a.css",
+    "main.js": "/chat-front/static/js/main.ef7f6adb.js",
+    "index.html": "/chat-front/index.html",
+    "main.9019137a.css.map": "/chat-front/static/css/main.9019137a.css.map",
+    "main.ef7f6adb.js.map": "/chat-front/static/js/main.ef7f6adb.js.map"
   },
   "entrypoints": [
     "static/css/main.9019137a.css",
